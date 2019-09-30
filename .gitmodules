@@ -1,3 +1,6 @@
 [submodule "portal"]
 	path = portal
 	url = https://github.com/doadnet/portal.git
+[submodule "users"]
+	path = users
+	url = https://github.com/doadnet/users.git
